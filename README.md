@@ -1,1 +1,2 @@
-Test Test Test
+Peter McPadden
+Lab 3
